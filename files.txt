@@ -1,0 +1,7 @@
+README.md
+files.txt
+greetings.sh
+namingtest.sh
+output.txt
+run_all.sh
+world.sh
